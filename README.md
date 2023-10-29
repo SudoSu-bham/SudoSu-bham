@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Java projects.<br>👯 I’m looking to collaborate on IoTs related projects<br>🤝 I’m looking for help for understanding the android development.<br>🌱 I’m currently learning mongoDB and Java.<br>💬 Ask me about Linux.<br>⚡ Fun fact I live at the edge of 127.0.0.1
 
-
+[![](https://holopin.me/sudosu_bham)](https://holopin.io/@sudosu_bham)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2e33BgDj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-tiwari-25b74a269) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@moddedgamer3801) 
 
